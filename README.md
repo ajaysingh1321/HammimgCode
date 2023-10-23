@@ -1,1 +1,1 @@
-# HammimgCode
+# HuffmanCoding
